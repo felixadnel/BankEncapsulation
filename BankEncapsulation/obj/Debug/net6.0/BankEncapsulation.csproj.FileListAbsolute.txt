@@ -1,0 +1,15 @@
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.deps.json
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.runtimeconfig.json
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.dll
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.pdb
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.csproj.AssemblyReference.cache
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.AssemblyInfoInputs.cache
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.AssemblyInfo.cs
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.csproj.CoreCompileInputs.cache
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.dll
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/refint/BankEncapsulation.dll
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.pdb
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.genruntimeconfig.cache
+/Users/felixadnel/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/ref/BankEncapsulation.dll
